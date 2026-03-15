@@ -1,6 +1,5 @@
 # 💫 Olá, Mundo! Me chamo Ana Beatriz
 -📚Estudante de Análise e Desenvolvimento de Sistemas;<br>
--✨Pronomes: ela/dela;<br>
 -💻Principais tecnologias: Python | JavaScript | React | HTML5 | CSS;<br>
 -🎯Principais áreas: Desenvolvimento Full Stack | Engenharia de Software;
 
