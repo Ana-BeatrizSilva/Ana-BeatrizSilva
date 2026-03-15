@@ -1,8 +1,8 @@
 # 💫 Hello, World! My name is Ana Beatriz. Welcome to my GitHub profile! 
 
--💻Systems Analysis and Development student;<br>
--⚙️Main Technologies: Python | JavaScript | React | HTML5 | CSS3;<br>
--🎯Main Areas: Full-Stack Development | Software Engineering;<br>
+-💻 Systems Analysis and Development student;<br>
+-⚙️ Main Technologies: Python | JavaScript | React | HTML5 | CSS3;<br>
+-🎯 Main Areas: Full-Stack Development | Software Engineering;<br>
 
 
 ## 🌐 My Socials:
