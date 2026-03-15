@@ -30,6 +30,6 @@
 
 ### ✍️ Random Dev Quotes:
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
