@@ -1,29 +1,35 @@
-# 💫 Olá, Mundo! Me chamo Ana Beatriz
--📚Estudante de Análise e Desenvolvimento de Sistemas;<br>
--💻Principais tecnologias: Python | JavaScript | React | HTML5 | CSS;<br>
--🎯Principais áreas: Desenvolvimento Full Stack | Engenharia de Software;
+# 💫 Hello, World! My name is Ana Beatriz. Welcome to my GitHub profile! 
+
+-💻Systems Analysis and Development student;<br>
+-⚙️Main Technologies: Python | JavaScript | React | HTML5 | CSS3;<br>
+-🎯Main Areas: Full-Stack Development | Software Engineering;<br>
 
 
-## 🌐 Contatos:
-- Linkedin: www.linkedin.com/in/ana-beatrizsilva000
-- E-mail: anac.silvadev@gmail.com
+## 🌐 My Socials:
 
-# 💻 Tecnologias:
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+•E-mail:anac.silvadev@gmail.com
+•Linkedin:https://www.linkedin.com/in/ana-beatrizsilva000
+
+# 💻 My Technologies:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-# 📊 Meus Status:
-![](https://github-readme-stats.vercel.app/api?username=Ana-BeatrizSilva&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ana-BeatrizSilva&theme=graywhite&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-BeatrizSilva&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# 📊 My Stats:
 
-## 🏆 Meus Troféus:
-![](https://github-profile-trophy.vercel.app/?username=Ana-BeatrizSilva&theme=graywhite&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=Ana-BeatrizSilva&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ana-BeatrizSilva&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-BeatrizSilva&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ana-BeatrizSilva&icon=9&color=12)](https://visitcount.itsvg.in)
+## 🏆 My Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=Ana-BeatrizSilva&theme=swift&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quotes:
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
