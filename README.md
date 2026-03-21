@@ -26,7 +26,7 @@
 
 ## 🏆 My Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=Ana-BeatrizSilva&theme=swift&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ana-BeatrizSilva&theme=swift&no-frame=true&margin-w=10)
 
 ## ✍️ Random Dev Quotes:
 
