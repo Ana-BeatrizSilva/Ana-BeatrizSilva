@@ -28,8 +28,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Ana-BeatrizSilva&theme=swift&no-frame=true&margin-w=10)
 
-## ✍️ Random Dev Quotes:
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
