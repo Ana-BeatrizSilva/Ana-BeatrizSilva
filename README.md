@@ -8,7 +8,7 @@
 ## 🌐 My Socials:
 
 •E-mail:anac.silvadev@gmail.com
-•Linkedin:https://www.linkedin.com/in/ana-beatrizsilva000
+<br>•Linkedin:https://www.linkedin.com/in/ana-beatrizsilva000
 
 ## 💻 My Technologies:
 
