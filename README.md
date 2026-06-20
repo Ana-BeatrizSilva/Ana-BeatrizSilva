@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">• E-mail: anac.silvadev@gmail.com<br>• LinkedIn: http://www.linkedin.com/in/ana-beatrizsilva000</p>
+<p align="left">• E-mail: anac.silvadev@gmail.com<br>• LinkedIn: https://www.linkedin.com/in/ana-beatrlz-silva
 
 ###
 
