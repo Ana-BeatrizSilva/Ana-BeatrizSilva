@@ -1,61 +1,94 @@
-<h2 align="center">Hi everyone! My name is Ana Beatriz - Welcome to my GitHub profile!</h2>
+<h1 data-importer="text" align="center">Hello! My name is Ana Beatriz. Welcome to my GitHub profile!</h1>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ana-BeatrizSilva&theme=github-compact&hide_border=true" />
+</p>
 
 ###
 
-<h3 align="center">💻 About Me</h3>
+<h2 data-importer="text" align="center">About me | 🍀</h2>
 
 ###
 
-<p align="center">• Systems Analysis and Development student;<br>• Main Areas of Interest: Full Stack Development | Software Engineering;<br>• Currently dedicated to improving my skills through practical development projects, applying theoretical knowledge in real-world scenarios</p>
+<p data-importer="text" align="left">• Systems Analysis and Development student;<br><br>• Aspiring Data Analyst | Focused on BI, Data Analytics, and Data-Driven Decision Making;<br><br>• Developing skills in Python, SQL, Excel, and Business Intelligence tools;<br><br>• Building hands-on data projects and continuously applying analytical concepts in practice;<br><br>• Practical experience in data processing, automation, and operational analytics in a corporate environment.</p>
 
 ###
 
-<h3 align="left">🌐 Socials</h3>
+<h2 data-importer="text" align="center">My Goals | ⭐</h2>
 
 ###
 
-<p align="left">• E-mail: anac.silvadev@gmail.com<br>• LinkedIn: https://www.linkedin.com/in/ana-beatrlz-silva
+<p data-importer="text" align="left">• Improve my skills in data analysis, BI tools, and data technologies in general;<br><br>• Build more practical projects focused on data analysis and data science;<br><br>• Deepen my knowledge in advanced topics such as Artificial Intelligence and Machine Learning;</p>
 
 ###
 
-<h3 align="left">📈 Current Goals</h3>
+<h2 data-importer="text" align="center">My Socials | 🌐</h2>
 
 ###
 
-<p align="left">• Develop practical projects to strengthen my portfolio;<br>•  Improve my development skills;<br>• Reinforce fundamental programming concepts;<br>• Learn technologies required for Full Stack development;</p>
+<p data-importer="text" align="left">• Email: anac.silvadev@gmail.com<br><br>• LinkedIn: www.linkedin.com/in/ana-beatrlz-silva/</p>
 
 ###
 
-<h3 align="left">⚙️ Technologies</h3>
+<h2 data-importer="text" align="center">Data Technologies | 📈</h2>
 
-###
+<div align="center">
 
-<br clear="both">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
 ###
 
-<h3 align="left">📊 My Stats</h3>
+<h2 data-importer="text" align="center">Development Technologies | 💻</h2>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+</div>
 
 ###
 
+<h2 data-importer="text" align="center">Other Tools | ⚙️</h2>
+
+<div align="center">
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+###
+
+<h2 data-importer="text" align="center">GitHub Stats | 📊</h2>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Ana-BeatrizSilva&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Ana-BeatrizSilva&theme=dark" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Ana-BeatrizSilva&theme=dark" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Ana-BeatrizSilva&theme=dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ana-BeatrizSilva&theme=dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ana-BeatrizSilva&theme=dark" />
+</p>
+
+###
