@@ -11,8 +11,7 @@
 ###
 
 <p data-importer="text" align="left">
-• Systems Analysis and Development student;<br><br>
-• Aspiring Data Analyst | Focused on BI, Data Analytics, and Data-Driven Decision Making;<br><br>
+• Systems Analysis and Development student and aspiring Data Analyst | Focused on BI, Data Analytics, and Data-Driven Decision Making;<br><br>
 • Developing skills in Python, SQL, Excel, and Business Intelligence tools;<br><br>
 • Practical experience in data processing, automation, and operational analytics in a corporate environment.
 </p>
