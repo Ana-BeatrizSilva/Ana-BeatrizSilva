@@ -11,8 +11,10 @@
 ###
 
 <p data-importer="text" align="left">
-• Systems Analysis and Development student and aspiring Data Analyst | Focused on BI, Data Analytics, and Data-Driven Decision Making;<br>
+• Systems Analysis and Development student and aspiring data professional;<br>
+  
 • Developing skills in Python, SQL, Excel, and Business Intelligence tools;<br>
+
 • Practical experience in data processing, automation, and operational analytics in a corporate environment.
 </p>
 
@@ -22,7 +24,9 @@
 
 ###
 
-<p data-importer="text" align="left">• Improve my skills in data analysis, BI tools, and data technologies in general;<br>• Build more practical projects focused on data analysis and data science;<br>• Deepen my knowledge in advanced topics such as Artificial Intelligence and Machine Learning;</p>
+<p data-importer="text" align="left">• Improve my skills in data analysis, BI tools, and data technologies in general;<br>
+  
+• Build more practical projects focused on data analysis and data science;<br>
 
 ###
 
