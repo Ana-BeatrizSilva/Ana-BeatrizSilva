@@ -26,7 +26,7 @@
 
 <p data-importer="text" align="left">• Improve my skills in data analysis, BI tools, and data technologies in general;<br>
   
-• Build more practical projects focused on data analysis and data science;<br>
+• Build more practical projects focused on data analysis, data science and data engineering;<br>
 
 ###
 
