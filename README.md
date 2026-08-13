@@ -59,12 +59,6 @@ System developed in **Python** for student registration, automatic grade calcula
 
 **Technologies:** Python · OpenPyXL · Matplotlib
 
-## Education
-
-🎓 **Systems Analysis and Development**  
-Instituto Federal da Paraíba — IFPB  
-2026–2028
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ana-BeatrizSilva&theme=github-compact&hide_border=true" />
 </p>
