@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! I'm Ana Beatriz</h1>
 
 <p align="center">
-  <strong>Data Engineering & Data Science | Python | SQL | Data Visualization</strong>
+  <strong>Data Analysis | Data Visualization | Python | SQL | Power BI | Excel</strong>
 </p>
 
 <p align="center">
