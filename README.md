@@ -58,7 +58,3 @@ Currently building practical projects to strengthen my foundations and explore d
 System developed in **Python** for student registration, automatic grade calculation, performance classification, Excel report generation using **OpenPyXL**, and data visualization through charts with **Matplotlib**.
 
 **Technologies:** Python · OpenPyXL · Matplotlib
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ana-BeatrizSilva&theme=github-compact&hide_border=true" />
-</p>
