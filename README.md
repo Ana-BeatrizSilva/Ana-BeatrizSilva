@@ -52,9 +52,3 @@ Currently building practical projects to strengthen my foundations and explore d
 </div>
 
 ## Projects
-
-### 🎓 [Academic Performance Analysis](https://github.com/Ana-BeatrizSilva/analise_desempenho_academico)
-
-System developed in **Python** for student registration, automatic grade calculation, performance classification, Excel report generation using **OpenPyXL**, and data visualization through charts with **Matplotlib**.
-
-**Technologies:** Python · OpenPyXL · Matplotlib
