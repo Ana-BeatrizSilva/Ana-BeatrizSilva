@@ -5,11 +5,19 @@
 </p>
 
 <p align="center">
+  Systems Analysis and Development student building practical projects with data and technology.
+</p>
+
+<p align="center">
   <img src="./assets/blackandwhitefish.gif" alt="Profile Banner" width="100%" height="130">
 </p>
 
 <p align="center">
-  Systems Analysis and Development student building practical projects with data and technology.
+  ─────────────── ✦ ───────────────
+</p>
+
+<p align="center">
+  <strong>About me</strong>
 </p>
 
 <p align="center">
@@ -19,14 +27,6 @@
   <a href="https://www.linkedin.com/in/ana-beatrlz-silva/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" width="110">
   </a>
-</p>
-
-<p align="center">
-  ─────────────── ✦ ───────────────
-</p>
-
-<p align="center">
-  <strong>About me</strong>
 </p>
 
 <p>
@@ -49,13 +49,15 @@ Currently, I'm focused on strengthening my foundations in Python, SQL, Machine L
   <strong>Focus Areas</strong>
 </p>
 
-<ul>
-  <li>Artificial Intelligence & Machine Learning</li>
-  <li>Data Engineering & ETL</li>
-  <li>Data Analysis & Visualization</li>
-  <li>Python & Data Processing</li>
-  <li>SQL & Databases</li>
-</ul>
+<div align="center">
+
+<p>• Artificial Intelligence & Machine Learning</p>
+<p>• Data Engineering & ETL</p>
+<p>• Data Analysis & Visualization</p>
+<p>• Python & Data Processing</p>
+<p>• SQL & Databases</p>
+
+</div>
 
 <p align="center">
   ─────────────── ✦ ───────────────
