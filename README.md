@@ -1,8 +1,8 @@
+<h1 align="center">Welcome! I'm Ana Beatriz</h1>
+
 <p align="center">
   <img src="./assets/blackandwhitefish.gif" alt="Profile Banner" width="100%" height="160">
 </p>
-
-<h1 align="center">Welcome! I'm Ana Beatriz</h1>
 
 <p align="center">
   <strong>AI Engineering | Data Engineering | Machine Learning | Python | SQL | ETL</strong>
