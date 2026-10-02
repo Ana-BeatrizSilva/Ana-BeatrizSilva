@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/blackandwhiteflowers.gif" alt="Profile Banner" width="100%">
+  <img src="./assets/blackandwhitefish.gif" alt="Profile Banner" width="100%" height="160">
 </p>
 
 <h1 align="center">Welcome! I'm Ana Beatriz</h1>
