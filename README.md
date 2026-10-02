@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/blackandwhiteflowers.gif" alt="Profile Banner" width="100%">
+</p>
+
 <h1 align="center">Welcome! I'm Ana Beatriz</h1>
 
 <p align="center">
