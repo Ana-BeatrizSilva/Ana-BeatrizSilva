@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/blackandwhitefish.gif" alt="Profile Banner" width="100%" height="160">
+  <img src="./assets/blackandwhitefish.gif" alt="Profile Banner" width="100%" height="150">
 </p>
 
 <p align="center">
