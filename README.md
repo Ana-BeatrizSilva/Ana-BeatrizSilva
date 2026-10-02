@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/blackandwhiteflowers.gif" alt="Profile Banner" width="100%" height="200">
+</p>
+
 <h1 align="center">Welcome! I'm Ana Beatriz</h1>
 
 <p align="center">
@@ -6,10 +10,6 @@
 
 <p align="center">
   Systems Analysis and Development student building practical projects with data and technology.
-</p>
-
-<p align="center">
-  <img src="./assets/blackandwhitefish.gif" alt="Profile Banner" width="100%" height="130">
 </p>
 
 <p align="center">
@@ -81,3 +81,7 @@ Currently, I'm focused on strengthening my foundations in Python, SQL, Machine L
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+<p align="center">
+  <img src="./assets/blackandwhitefish.gif" alt="Profile Banner" width="100%" height="150">
+</p>
